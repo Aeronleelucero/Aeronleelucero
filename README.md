@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Aeronleelucero/Aeronleelucero/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%">
+
 
   <h1>Hi, I'm Aeron Lee Vincent Lucero </h1>
 
