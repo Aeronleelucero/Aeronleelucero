@@ -28,9 +28,9 @@
 
 ---
 
-## bout Me
+## About Me
 
-I'm a Computer Science student and aspiring software engineer passionate about building practical solutions through code.
+I'm a Software Developer passionate about building practical solutions through code.
 
 - Bachelor of Science in Computer Science
 - Interested in full-stack development and system engineering
