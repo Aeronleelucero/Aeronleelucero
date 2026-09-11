@@ -111,21 +111,17 @@ A full-stack application for managing cardholder information and supporting QR-b
 
 ---
 
-## GitHub Statistics
-
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Aeronleelucero&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub statistics">
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aeronleelucero&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Aeronleelucero&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aeronleelucero&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeronleelucero&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="180" alt="Top programming languages">
+
 
 </div>
 
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=Aeronleelucero&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak">
-
-</div>
 
 ---
 
