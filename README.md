@@ -1,21 +1,22 @@
-
+ 
 <!-- ============================================ -->
 <!--                 PROFILE HEADER               -->
 <!-- ============================================ -->
 
 <div align="center">
 
-
-
-  <h1>Hi, I'm Aeron Lee Vincent Lucero </h1>
+  <h1>Hi, I'm Aeron Lee Vincent Lucero 👋</h1>
 
   <h3>Software Developer • Computer Science Graduate • Cybersecurity Enthusiast</h3>
 
   <p>
-    Building impactful, efficient, and innovative solutions from the Philippines 
+    Building impactful, efficient, and innovative solutions from the Philippines 🇵🇭
   </p>
 
   <p>
+    <a href="https://aeronlee.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-C62828?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    </a>
     <a href="https://github.com/Aeronleelucero">
       <img src="https://img.shields.io/github/followers/Aeronleelucero?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers">
     </a>
@@ -28,22 +29,22 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm a Software Developer passionate about building practical solutions through code.
 
-- Bachelor of Science in Computer Science
-- Interested in full-stack development and system engineering
-- Exploring cybersecurity, ethical hacking, and CTF competitions
-- Working on AI-powered applications and computer vision
-- Linux enthusiast and open-source learner
-- Always learning, building, and improving
+- 🎓 Bachelor of Science in Computer Science
+- 💻 Interested in full-stack development and system engineering
+- 🔐 Exploring cybersecurity, ethical hacking, and CTF competitions
+- 🤖 Working on AI-powered applications and computer vision
+- 🐧 Linux enthusiast and open-source learner
+- 🚀 Always learning, building, and improving
 
 > "Great software is built with curiosity, consistency, and a willingness to learn."
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 ### Programming Languages
 
@@ -90,44 +91,43 @@ I'm a Software Developer passionate about building practical solutions through c
 
 ---
 
-## Best Projects
+## 🚀 Best Projects
 
 ### 🐄 HERD-VISION
-**AI-powered dairy cow monitoring system**
+**AI-Powered Dairy Cow Monitoring System**
 
 A computer vision research project focused on detecting lameness and estimating body condition scores in dairy cows.
 
 **Technologies:** Python • YOLOv8 Pose • FastAPI • React • Vite
 
-## Development Project
-
 ### 🪪 Unity Card Management System
-**Cardholder and attendance management**
+**Cardholder and Attendance Management**
 
 A full-stack application for managing cardholder information and supporting QR-based attendance workflows.
 
 **Technologies:** Laravel • React • MySQL • REST API
 
-
 ---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aeronleelucero&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Aeronleelucero&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aeronleelucero&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.shion.dev/api?username=Aeronleelucero&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 
+  <br/>
 
+  <img src="https://streak-stats.demolab.com/?user=Aeronleelucero&theme=dark&hide_border=false" alt="GitHub Streak">
+
+  <br/>
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aeronleelucero&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 
 </div>
 
-
 ---
 
-
-
-## Currently Learning
+## 📚 Currently Learning
 
 - 🔐 Cybersecurity & Ethical Hacking
 - 🐍 Advanced Python & AI Development
@@ -138,26 +138,38 @@ A full-stack application for managing cardholder information and supporting QR-b
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
+
+  <a href="https://aeronlee.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-C62828?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
 
   <a href="https://github.com/Aeronleelucero">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="https://www.linkedin.com/in/aeron-lee-vincent-lucero-884908351/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:forstakenajax@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=Aeronleelucero&style=for-the-badge&color=blue" alt="Profile views">
 
   <p><i>Thanks for visiting my profile! Let's build something amazing together. 🚀</i></p>
+
+  <a href="https://aeronlee.vercel.app/">
+    <b>Explore My Portfolio →</b>
+  </a>
 
 </div>
