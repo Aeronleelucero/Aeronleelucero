@@ -101,11 +101,12 @@ A computer vision research project focused on detecting lameness and estimating 
 **Technologies:** Python • YOLOv8 Pose • FastAPI • React • Vite
 
 ### 🪪 Unity Card Management System
-**Cardholder and Attendance Management**
 
-A full-stack application for managing cardholder information and supporting QR-based attendance workflows.
+**Cardholder and Municipal Services Management**
 
-**Technologies:** Laravel • React • MySQL • REST API
+A full-stack web and mobile application designed for the Municipality of Maco to centralize cardholder information, streamline department-specific service delivery, manage service transactions, and maintain service history through secure, role-based access and department-level data isolation.
+
+**Technologies:** Laravel • React • React Native • MySQL • REST API
 
 ---
 
