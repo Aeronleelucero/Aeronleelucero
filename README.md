@@ -7,7 +7,7 @@
 
   <h1>Hi, I'm Aeron Lee Vincent Lucero 👋</h1>
 
-  <h3>Software Developer • Computer Science Graduate • Cybersecurity Enthusiast</h3>
+  <h3>Full-Stack Developer | Aspiring Software Engineer | Cybersecurity Enthusiast</h3>
 
   <p>
     Building impactful, efficient, and innovative solutions from the Philippines 🇵🇭
